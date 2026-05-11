@@ -1,1 +1,1 @@
-![](puranjay_readme_svg)
+![](puranjay_readme_svg.svg)
