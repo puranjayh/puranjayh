@@ -11,7 +11,7 @@
 
 ### CS @ Georgia Tech `'26` · ML Research · Quant · Builder
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/puranjayh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puranjay-haldankar-529a07320/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:puranjayhaldankar2009@gmail.com)
 [![IB Cognito](https://img.shields.io/badge/IB%20Cognito-000000?style=flat-square&logo=vercel&logoColor=white)](https://ibcognito.com)
 
@@ -44,30 +44,22 @@ puranjay = {
 
 ---
 
-### 🚀 Selected Projects
+### 🚀 Projects
 
 | Project | Description |
 |---|---|
 | **[Black-Scholes Options Pricer](https://github.com/puranjayh)** | BS model + all 5 Greeks + Monte Carlo via GBM, built from scratch — no scipy |
 | **[FinSight](https://github.com/puranjayh)** | RF + XGBoost + ARIMA + Prophet ensemble on live market data with sentiment analysis |
 | **[RSA Decryption Model](https://github.com/puranjayh)** | Full RSA pipeline with Pollard's Rho; extrapolated to 308-digit key cracking times |
+| **[Hypoxia Cancer Classifier](https://github.com/puranjayh)** | Random Forest on 60K+ genes from GEO to classify hypoxic cancer states · 83.3% accuracy |
 
 ---
 
-### 📄 Research & Publications
+### 📄 Research
 
 - **Pan-Stress Hub Genes as Prognostic Markers in Breast Cancer** · *In Progress · NeurIPS ML4H 2026 target*
 - **Comparative Analysis of Regressor ML Models for SPY Forecasting** · *Research Archive of Rising Scholars, Sep 2025*
 - **Impact of Quantum Computing on Traditional Cryptography** · *IERJ, Dec 2024*
-
----
-
-### 🏆 Highlights
-
-- 🥇 **Wolves of Wall Street** — Global Finalist, 4th / 200+ teams (193% return on $100K)
-- 🥉 **American Mathematics Olympiad 2024** — Bronze
-- 🥉 **National Junior Cybersecurity Olympiad 2024** — Bronze
-- 🏫 **Principal's Award** — Podar International School
 
 ---
 
