@@ -32,7 +32,7 @@ Modelling latent game-state dynamics using hidden Markov chains to forecast spor
 ---
 
 ## // stack
-`Python` `PyTorch` `React` `TypeScript` `SQL` `Node.js` `Figma`
+`Python` `PyTorch` `React` `TypeScript` `SQL` `Node.js` `Figma` `Rstudio` `Rscript` 
 
 ---
 
