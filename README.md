@@ -37,6 +37,6 @@ Modelling latent game-state dynamics using hidden Markov chains to forecast spor
 ---
 
 ## // find me
-[puranjayhaldankar2009@gmail.com](mailto:puranjayhaldankar2009@gmail.com) · [github](https://github.com/puranjayh) · [linkedin](https://linkedin.com/in/puranjay-haldankar)
+[phaldankar3@gatech.edu](mailto:phaldankar3@gatech.edu) · [github](https://github.com/puranjayh) · [linkedin](https://linkedin.com/in/puranjay-haldankar)
 
 // open to research collabs, builder chats, and good ideas
