@@ -11,7 +11,7 @@
 | `exploring` | HMM-based sports prediction · MIT URTC 2026 target |
 | `interests` | ML · quant finance · market microstructure · algo trading |
 
-`10k+` monthly users · `108` countries · `41/42` IB score
+`10k+` monthly users · `108` countries · `43/45` IB score
 
 ---
 
