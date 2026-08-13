@@ -6,13 +6,6 @@ building **Soverin** — real-life cognition in games
 
 ---
 
-## // live_stats
-
-`10k+` monthly users · `108` countries · `11` projects · `2` papers published
-`43/45` IB, top 1% worldwide · `AIR 1` ICSE CS · `world #17` AMO 2024
-
----
-
 ## // now
 
 - `building` — **Soverin Labs**, real-life cognition in games `stealth`
