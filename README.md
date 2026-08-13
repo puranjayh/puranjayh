@@ -2,36 +2,32 @@
 
 ● ml researcher · founder · mumbai → atlanta · cs @ georgia tech '30
 
-building **[Soverin](https://github.com/puranjayh)** — real-life cognition in games · shipping **sbl.you** — deterministic coaching for lifters
+building **Soverin** — real-life cognition in games
 
 ---
 
 ## // live_stats
 
-| | | | |
-|---|---|---|---|
-| `10k+` monthly users | `108` countries | `11` projects | `2` papers published |
-| `43/45` IB · top 1% worldwide | `AIR 1` ICSE CS | `world #17` AMO 2024 | `5` languages |
+`10k+` monthly users · `108` countries · `11` projects · `2` papers published
+`43/45` IB, top 1% worldwide · `AIR 1` ICSE CS · `world #17` AMO 2024
 
 ---
 
 ## // now
 
-| | |
-|---|---|
-| `building` | **Soverin Labs** — real-life cognition in games `stealth` |
-| `shipping` | **sbl.you** — science-based lifting, handled for you |
-| `research` | pan-stress hub genes in CTCs via GNNs · NeurIPS target |
-| `research` | HMM regime models for sports outcomes · MIT URTC 2026 target |
-| `interests` | ML · quant finance · market microstructure · algo trading · LLM evals |
+- `building` — **Soverin Labs**, real-life cognition in games `stealth`
+- `research` — pan-stress hub genes in CTCs via GNNs · NeurIPS target
+- `research` — HMM regime models for sports outcomes · MIT URTC 2026 target
+- `shipping` — sbl.you, deterministic coaching for lifters
+- `interests` — ML · quant finance · market microstructure · algo trading · LLM evals
 
 ---
 
 ## // selected work
 
-**`sbl.you`** · founder · Jun 2026 – present · `in development 🟢`
-Science-based lifting, handled for you. Training, sleep, fatigue and nutrition read together by **ALI**, an in-app coach where a deterministic rules-and-stats engine computes *every* number and the LLM is only allowed to narrate what the code already produced — so it cannot hallucinate your lifts. Apple Health ingest, Hevy/CSV import, deterministic verdicts and share cards. Coach-facing `sbl.us` in design.
-`Expo` `React Native` `Supabase` `HealthKit` `TypeScript` `0→1`
+**`Soverin Labs`** · ML developer · Jul 2026 – present · `stealth`
+Real-life cognition in games. Under wraps — more soon.
+`Game Dev` `ML` `Cognition`
 
 **`Gaussian HMM Football Predictor`** · live-tested on WC 2026
 Elo tells you who is better. It cannot tell you who is *in form*. Models form as a hidden Markov state per team, keeps the full distribution over all 7 states instead of collapsing to a point estimate, and feeds the joint 7×7 grid plus both entropies into a logistic head. Trained on **33,455** matches across 217 teams; genuinely out-of-sample, walk-forward, on all 104 World Cup 2026 fixtures.
@@ -52,6 +48,10 @@ Single-cell RNA-seq re-analysis of breast-cancer circulating tumour cells, integ
 **`IB Cognito`** · co-founder & CTO · Jul 2024 – present · `live 🟢`
 Free IB learning platform built from scratch → **10k monthly users across 108 countries**, zero marketing budget. Backed by WACP International.
 `React` `Node.js` `PostgreSQL` · [ibcognito.com](https://ibcognito.com)
+
+**`sbl.you`** · founder · Jun 2026 – present · `in development`
+Science-based lifting, handled for you. A rules-and-stats engine computes every number from your own logs; the LLM layer only narrates what the code already produced, so it can't hallucinate your lifts. Apple Health ingest, Hevy/CSV import.
+`Expo` `React Native` `Supabase` `HealthKit` `TypeScript`
 
 **`Black-Scholes Options Pricer`** · complete
 European option pricing from scratch — analytical Black-Scholes, all 5 Greeks (Δ Γ V Θ ρ), Monte Carlo via geometric Brownian motion. `norm_cdf` hand-implemented via Abramowitz & Stegun (err < 7.5e-8). Zero financial libraries.
